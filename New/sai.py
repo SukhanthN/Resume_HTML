@@ -1,4 +1,4 @@
-print ("hello workld")
+print ("hello world")
 
 
-print ("hello workld sukhanth")
+print ("hello world sukhanth")
